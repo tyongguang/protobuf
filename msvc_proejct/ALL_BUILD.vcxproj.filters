@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="Windows-1252"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="X:\temp\pb\protobuf\cmake\CMakeLists.txt" />
+    <CustomBuild Include="CMakeFiles\404adf62f6fbcfaf963da7780f998a76\ALL_BUILD.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CMakeFiles\ALL_BUILD" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2AF303F2-7AB9-49DC-B368-D79FEBEE7F49}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
