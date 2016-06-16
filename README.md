@@ -7,9 +7,11 @@ Copyright 2008 Google Inc.
 
 https://developers.google.com/protocol-buffers/
 
+个人特别说明
+在使用时候，只需要复制出src 和 msvc_proejct_indepnd 目录即可
+--------
 Overview
 --------
-
 Protocol Buffers (a.k.a., protobuf) are Google's language-neutral,
 platform-neutral, extensible mechanism for serializing structured data. You
 can find [protobuf's documentation on the Google Developers site](https://developers.google.com/protocol-buffers/).
